@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="![ing](https://github.com/Rahul0-Kumar/Rahul0-Kumar/assets/157640152/9bdef7a6-8caf-4789-a091-c3635cfa5050)
-">
+<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcwNDc1OTMsIm5iZiI6MTcwNzA0NzI5MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA0VDExNDgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZjNzdkOGY5YmE1OTc2MTNiNWNhZTY2MmY1YTA3ZmJjMTAzYjBiMjczNmRjZTE2Yjg0MWY4MGRjODJmNWY4NjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.fV_IVsBhlhoT3zwkdbb8PtJZ-JLm3ISoQKJarHEDq8E">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul0-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="rahul0-kumar" /> </p>
 
