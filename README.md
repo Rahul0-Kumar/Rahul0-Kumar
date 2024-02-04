@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<img align="right" alt="coding" width="400" src="![ing](https://github.com/Rahul0-Kumar/Rahul0-Kumar/assets/157640152/9bdef7a6-8caf-4789-a091-c3635cfa5050)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul0-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="rahul0-kumar" /> </p>
 
