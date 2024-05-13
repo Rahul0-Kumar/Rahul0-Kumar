@@ -1,5 +1,4 @@
-<img alt="banner" src="https://github.com/Rahul0-Kumar/Rahul0-Kumar/assets/157640152/30ff1d2f-882f-4887-9bce-1a39a6b7d7c0
-)">
+<img src="https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1721260800&amp;v=beta&amp;t=YMOyLIw7Oo1NYy7EnVZRSDWa61ar9fOZg41ApIlgTCw" loading="lazy" alt="No alt text provided for this image" id="ember47" class="ivm-view-attr__img--centered  reader-image-block__img evi-image lazy-image ember-view">">
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
