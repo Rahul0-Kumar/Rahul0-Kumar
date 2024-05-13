@@ -1,4 +1,5 @@
-<img alt="banner" src="(https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)">
+<img alt="banner" src="https://github.com/Rahul0-Kumar/Rahul0-Kumar/assets/157640152/30ff1d2f-882f-4887-9bce-1a39a6b7d7c0
+)">
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
