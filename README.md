@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" loading="lazy" alt="No alt text provided for this image" id="ember47" class="ivm-view-attr__img--centered  reader-image-block__img evi-image lazy-image ember-view">
+<img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" loading="lazy" alt="No alt text provided for this image" id="ember47" class="ivm-view-attr__img--centered  reader-image-block__img evi-image lazy-image ember-view">
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
